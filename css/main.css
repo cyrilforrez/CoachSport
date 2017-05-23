@@ -36,3 +36,31 @@ h2 {
     margin: 5px;
 }
 
+.douzemois {
+    background-color: #595ca1;
+}
+
+.sixmois {
+    background-color: #B464A3;
+}
+
+.troismois {
+    background-color: #7BC6C6;
+}
+
+.unmois {
+    background-color: #CA4477;
+}
+
+.soustext {
+    background-color: #404040;
+}
+
+h4 {
+    margin: 0;
+    padding: 0;
+}
+
+.groupcard {
+    margin-top: 20px;
+}
