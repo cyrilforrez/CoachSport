@@ -2,7 +2,7 @@ body {
     text-align: center;
 }
 
-main, footer, #photocoach, form {
+main, footer, #photocoach, form  {
     margin-top: 30px;
 }
 
@@ -17,7 +17,6 @@ header {
 footer {
     background-color: grey;
     text-align: left;
-    margin-top: 30px;
 }
 
 .test {
@@ -29,7 +28,11 @@ h2 {
     margin: auto;
 }
 
-#photocoach {
-    margin-top: 30px;
+.footerlinks {
+    color: #F2F1EF;
+}
+
+.linkscard {
+    margin: 5px;
 }
 
