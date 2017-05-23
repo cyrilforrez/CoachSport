@@ -2,6 +2,10 @@ body {
     text-align: center;
 }
 
+main, footer, #photocoach, form {
+    margin-top: 30px;
+}
+
 header {
     background-color: #F2F1EF
 }
@@ -13,8 +17,19 @@ header {
 footer {
     background-color: grey;
     text-align: left;
+    margin-top: 30px;
 }
 
-#iconf {
-    display: inline-block;
+.test {
+    width: 200px;
+    margin: 0 auto;
 }
+
+h2 {
+    margin: auto;
+}
+
+#photocoach {
+    margin-top: 30px;
+}
+
