@@ -792,29 +792,25 @@ pre code {
 
 @media (min-width: 576px) {
   .container {
-    width: 540px;
-    max-width: 100%;
+    width: 100%;
   }
 }
 
 @media (min-width: 768px) {
   .container {
-    width: 720px;
-    max-width: 100%;
+    width: 100%;
   }
 }
 
 @media (min-width: 992px) {
   .container {
-    width: 960px;
-    max-width: 100%;
+    width: 100%;
   }
 }
 
 @media (min-width: 1200px) {
   .container {
-    width: 1140px;
-    max-width: 100%;
+    width: 100%;
   }
 }
 
@@ -6076,9 +6072,6 @@ button.close {
   vertical-align: text-top !important;
 }
 
-.bg-faded {
-  background-color: #f7f7f7;
-}
 
 .bg-primary {
   background-color: #0275d8 !important;
