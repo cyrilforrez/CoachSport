@@ -6,6 +6,7 @@ main, footer, #photocoach, form  {
     margin-top: 30px;
 }
 
+/*--------------header---------------*/
 header {
     background-color: #F2F1EF
 }
@@ -14,24 +15,35 @@ header {
     padding-left: 2%;
 }
 
-footer {
-    background-color: grey;
-    text-align: left;
-}
+/*-------------carousel--------------------*/
 
 .test {
     width: 200px;
     margin: 0 auto;
 }
-
+/*----------------------titre----------------*/
 h2 {
     margin: auto;
 }
 
+h4 {
+    margin: 0;
+    padding: 0;
+}
+
+/*----------------------footer-------------*/
 .footerlinks {
     color: #F2F1EF;
 }
 
+footer {
+    background-color: grey;
+    text-align: left;
+}
+
+
+/*------------------page tarifs---------*/
+/*----------------------Cards------------*/
 .linkscard {
     margin: 5px;
 }
@@ -54,11 +66,6 @@ h2 {
 
 .soustext {
     background-color: #404040;
-}
-
-h4 {
-    margin: 0;
-    padding: 0;
 }
 
 .groupcard {
